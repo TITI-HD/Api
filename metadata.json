@@ -1,0 +1,6 @@
+{
+  "name": "ApiFlow",
+  "description": "A visual tool to model, test, and mock API flows and business logic on mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
